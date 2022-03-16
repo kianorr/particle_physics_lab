@@ -2,7 +2,7 @@
 Experiment to determine how anti-muons violate parity through detecting up and down spin events.
 This parity violation is proven through an asymmetry:
 
-[asymmetry_no_title.pdf](https://github.com/kianorr/particle_physics_lab/files/8259498/asymmetry_no_title.pdf)
+![asymmetry](https://user-images.githubusercontent.com/60586957/158532167-f317c774-688b-4d17-9173-e1337b61b999.png)
 
 
 CERN's ROOT was used for data analysis.
